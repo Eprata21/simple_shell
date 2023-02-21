@@ -12,7 +12,7 @@ commands, often, shells can take all these commands directly from a stored file
 
 and execute it, instead of writing them again every time. They are used to
  
-get routine backups by admins. 
+get routine backups by admin. 
 
 
 List of allowed functions and system calls
