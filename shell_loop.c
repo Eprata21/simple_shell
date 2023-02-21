@@ -47,7 +47,7 @@ int hsh(info_t *info, char **av)
  * @info: the parameter & return info struct
  *
  * Return: -1 if builtin not found,
- * 0 if builtin executed successfully,
+ * 0 if builtin executed successful,
  * 1 if builtin found but not successful,
  * 2 if builtin signals exit()
  */
